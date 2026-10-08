@@ -22,5 +22,4 @@ The seminar brings together researchers working at the intersection of innovatio
 
 The seminar schedule and speaker information are available at:
 
-👉 **https://dongboshi.github.io/titlefree_seminar/**
-
+👉 **https://dongboshi.github.io/sig_seminar/**
