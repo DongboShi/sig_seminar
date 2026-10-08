@@ -1,6 +1,6 @@
-# Titlefree Seminar for Science, Innovation, and Growth
+# Science, Innovation, and Growth Online Seminar
 
-This repository hosts the webpage for the **Titlefree Seminar for Science, Innovation, and Growth** — an interdisciplinary forum exploring the frontier of research across the sciences and economics.
+This repository hosts the webpage for the **Science, Innovation, and Growth Online Seminar** — an interdisciplinary forum exploring the frontier of research across the sciences and economics.
 
 ## Organizers
 
@@ -22,5 +22,5 @@ The seminar brings together researchers working at the intersection of innovatio
 
 The seminar schedule and speaker information are available at:
 
-👉 **https://dongboshi.github.io/titlefree_seminar/**
+👉 **https://dongboshi.github.io/sig_seminar/**
 
